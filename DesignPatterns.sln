@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.DesignPatterns.Bridge", "CSharp.DesignPatterns.Bridge\CSharp.DesignPatterns.Bridge.csproj", "{9859AA79-523A-4E7F-B439-977032133DF7}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Pattern.Singleton", "Creational.Pattern.Singleton\Creational.Pattern.Singleton.csproj", "{F4BCA6E6-0ED2-4675-8158-8D39B7BB6255}"
 EndProject
 Global
@@ -10,10 +8,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9859AA79-523A-4E7F-B439-977032133DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9859AA79-523A-4E7F-B439-977032133DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9859AA79-523A-4E7F-B439-977032133DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9859AA79-523A-4E7F-B439-977032133DF7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F4BCA6E6-0ED2-4675-8158-8D39B7BB6255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F4BCA6E6-0ED2-4675-8158-8D39B7BB6255}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4BCA6E6-0ED2-4675-8158-8D39B7BB6255}.Release|Any CPU.ActiveCfg = Release|Any CPU
