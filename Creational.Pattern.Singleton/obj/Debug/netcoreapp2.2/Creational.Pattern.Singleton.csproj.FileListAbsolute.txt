@@ -1,0 +1,10 @@
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/bin/Debug/netcoreapp2.2/Creational.Pattern.Singleton.deps.json
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/bin/Debug/netcoreapp2.2/Creational.Pattern.Singleton.runtimeconfig.json
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/bin/Debug/netcoreapp2.2/Creational.Pattern.Singleton.runtimeconfig.dev.json
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/bin/Debug/netcoreapp2.2/Creational.Pattern.Singleton.dll
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/bin/Debug/netcoreapp2.2/Creational.Pattern.Singleton.pdb
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.csprojAssemblyReference.cache
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.AssemblyInfoInputs.cache
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.AssemblyInfo.cs
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.dll
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.pdb

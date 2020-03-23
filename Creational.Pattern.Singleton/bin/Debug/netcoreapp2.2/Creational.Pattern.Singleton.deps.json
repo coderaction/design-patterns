@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Creational.Pattern.Singleton/1.0.0": {
+        "runtime": {
+          "Creational.Pattern.Singleton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Creational.Pattern.Singleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
