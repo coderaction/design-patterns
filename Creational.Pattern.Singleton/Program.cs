@@ -15,9 +15,10 @@ namespace Creational.Pattern.Singleton
             //Amaç oluşturulan nesneyi, global erişim noktası olarak sağlamaktır. 
             //Sistem çalıştığı müddetçe ikinci bir örnek oluşturulamaz.
             //Singleton nesneler ilk çağırıldıklarında bir kere oluşturulurlar ve sonraki istekler bu nesne üzerinden karşılanır.
-            
+
             //Eager Initialization
-            SingletonExampleEagerInitialization singletonExampleEagerInitialization = SingletonExampleEagerInitialization.getInstance();
+            SingletonExampleEagerInitialization singletonExampleEagerInitialization =
+                SingletonExampleEagerInitialization.getInstance();
             singletonExampleEagerInitialization.Log("Test");
         }
     }
@@ -29,7 +30,8 @@ namespace Creational.Pattern.Singleton
     /// </summary>
     public class SingletonExampleEagerInitialization
     {
-        private static readonly SingletonExampleEagerInitialization instance = new SingletonExampleEagerInitialization();
+        private static readonly SingletonExampleEagerInitialization
+            instance = new SingletonExampleEagerInitialization();
 
         private SingletonExampleEagerInitialization()
         {
