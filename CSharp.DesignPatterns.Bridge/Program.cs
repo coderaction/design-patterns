@@ -7,6 +7,7 @@ namespace CSharp.DesignPatterns.Bridge
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Corona!");
+            Console.WriteLine("Hello Corona!");
         }
     }
 }
