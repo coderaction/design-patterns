@@ -34,7 +34,11 @@ namespace Creational.Pattern.Singleton
         }
     }
     
-      //Eager Initialization
+    
+      /// <summary>
+      /// //Eager Initialization
+      /// Kodun çalışır hali: https://code.sololearn.com/ccHMLd4id9tP
+      /// </summary>
     public class SingletonExampleEagerInitialization {
 
         private static readonly SingletonExampleEagerInitialization instance = new SingletonExampleEagerInitialization();
