@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23702da3-8abb-4ff7-9396-f5b35771804d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/Creational.Pattern.Singleton.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/Creational.Pattern.Singleton.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584961430790</updated>
-      <workItem from="1584961433888" duration="2555000" />
+      <workItem from="1584961433888" duration="3810000" />
     </task>
     <servers />
   </component>
