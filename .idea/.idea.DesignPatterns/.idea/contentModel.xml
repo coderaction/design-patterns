@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Creational.Pattern.Factory" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Creational.Pattern.Factory.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Creational.Pattern.Factory.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="Creational.Pattern.Singleton" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Creational.Pattern.Singleton.csproj" t="IncludeRecursive" />
@@ -9,18 +21,6 @@
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
               <e p="Creational.Pattern.Singleton.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
-        <e p="Program.cs" t="Include" />
-      </e>
-      <e p="CSharp.DesignPatterns.Bridge" t="IncludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="CSharp.DesignPatterns.Bridge.csproj" t="IncludeRecursive" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp2.2" t="Include">
-              <e p="CSharp.DesignPatterns.Bridge.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>

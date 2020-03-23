@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Pattern.Singleton", "Creational.Pattern.Singleton\Creational.Pattern.Singleton.csproj", "{F4BCA6E6-0ED2-4675-8158-8D39B7BB6255}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Pattern.Factory", "Creational.Pattern.Factory\Creational.Pattern.Factory.csproj", "{A11AE7A6-53C0-432A-9B95-FEBFE0899A53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F4BCA6E6-0ED2-4675-8158-8D39B7BB6255}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4BCA6E6-0ED2-4675-8158-8D39B7BB6255}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4BCA6E6-0ED2-4675-8158-8D39B7BB6255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11AE7A6-53C0-432A-9B95-FEBFE0899A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11AE7A6-53C0-432A-9B95-FEBFE0899A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11AE7A6-53C0-432A-9B95-FEBFE0899A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11AE7A6-53C0-432A-9B95-FEBFE0899A53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
