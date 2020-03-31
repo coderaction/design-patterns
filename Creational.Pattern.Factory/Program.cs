@@ -1,8 +1,11 @@
 ﻿using System;
 
 namespace Creational.Pattern.Factory
-{
-    //https://code.sololearn.com/cBBFajCYPDDv
+{ 
+    /// <summary>
+    /// Çalışan Code
+    /// https://code.sololearn.com/cBBFajCYPDDv
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
