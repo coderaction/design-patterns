@@ -4,15 +4,6 @@
     <list default="true" id="23702da3-8abb-4ff7-9396-f5b35771804d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Creational.Pattern.Factory/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Factory/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/Creational.Pattern.Factory.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/Creational.Pattern.Factory.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/Creational.Pattern.Factory.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/Creational.Pattern.Factory.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Creational.Pattern.Singleton.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Creational.Pattern.Singleton.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Creational.Pattern.Singleton.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Creational.Pattern.Singleton.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +101,7 @@
       <updated>1584961430790</updated>
       <workItem from="1584961433888" duration="6229000" />
       <workItem from="1585675965504" duration="32000" />
-      <workItem from="1585676001364" duration="40000" />
+      <workItem from="1585676001364" duration="523000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,12 @@
 
 namespace Creational.Pattern.Factory
 { 
-    /// <summary>
+    //En Çok kullanılan tasarım kalıplarından biridir.
+    //Abstract ve Interface şeklinde kullanılabilir.
+    //Aynı özellikleri kullanan fakat farklı işlemleri veya responları olan class'ları yönetebilmeyi sağlayan bir yaklaşımdır
+    //Nesne üretiminden sorumlu bir sınıf olur ve bu sınıftaki methoda gönderilen parametre ile üretilecek sınıfın türünü belirler.
+    
+    // <summary>
     /// Çalışan Code
     /// https://code.sololearn.com/cBBFajCYPDDv
     /// </summary>
