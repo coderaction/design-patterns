@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Creational.Pattern.Factory.Abstract/1.0.0": {
+        "runtime": {
+          "Creational.Pattern.Factory.Abstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Creational.Pattern.Factory.Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

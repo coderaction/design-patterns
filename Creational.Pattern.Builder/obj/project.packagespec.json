@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory/Creational.Pattern.Factory.csproj",
-    "projectName": "Creational.Pattern.Factory",
-    "projectPath": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory/Creational.Pattern.Factory.csproj",
-    "outputPath": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory/obj/",
+    "projectUniqueName": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Builder/Creational.Pattern.Builder.csproj",
+    "projectName": "Creational.Pattern.Builder",
+    "projectPath": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Builder/Creational.Pattern.Builder.csproj",
+    "outputPath": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Builder/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

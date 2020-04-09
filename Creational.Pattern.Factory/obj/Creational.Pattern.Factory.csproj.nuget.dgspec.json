@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory/Creational.Pattern.Factory.csproj": {}
+    "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory/Creational.Pattern.Factory.csproj": {}
   },
   "projects": {
-    "/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory/Creational.Pattern.Factory.csproj": {
+    "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory/Creational.Pattern.Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory/Creational.Pattern.Factory.csproj",
+        "projectUniqueName": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory/Creational.Pattern.Factory.csproj",
         "projectName": "Creational.Pattern.Factory",
-        "projectPath": "/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory/Creational.Pattern.Factory.csproj",
+        "projectPath": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory/Creational.Pattern.Factory.csproj",
         "packagesPath": "/Users/serkaneren/.nuget/packages/",
-        "outputPath": "/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory/obj/",
+        "outputPath": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

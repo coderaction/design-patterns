@@ -1,0 +1,20 @@
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/bin/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.deps.json
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/bin/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.runtimeconfig.json
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/bin/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.runtimeconfig.dev.json
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/bin/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.dll
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/bin/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.pdb
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/obj/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.csprojAssemblyReference.cache
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/obj/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.AssemblyInfoInputs.cache
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/obj/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.AssemblyInfo.cs
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/obj/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.dll
+/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/obj/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.pdb
+/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/bin/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.deps.json
+/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/bin/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.runtimeconfig.json
+/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/bin/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.runtimeconfig.dev.json
+/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/bin/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.dll
+/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/bin/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.pdb
+/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/obj/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.csprojAssemblyReference.cache
+/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/obj/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.AssemblyInfoInputs.cache
+/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/obj/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.AssemblyInfo.cs
+/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/obj/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.dll
+/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Factory.Abstract/obj/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.pdb

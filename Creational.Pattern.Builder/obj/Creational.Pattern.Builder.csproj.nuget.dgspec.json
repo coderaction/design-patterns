@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Singleton/Creational.Pattern.Singleton.csproj": {}
+    "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Builder/Creational.Pattern.Builder.csproj": {}
   },
   "projects": {
-    "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Singleton/Creational.Pattern.Singleton.csproj": {
+    "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Builder/Creational.Pattern.Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Singleton/Creational.Pattern.Singleton.csproj",
-        "projectName": "Creational.Pattern.Singleton",
-        "projectPath": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Singleton/Creational.Pattern.Singleton.csproj",
+        "projectUniqueName": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Builder/Creational.Pattern.Builder.csproj",
+        "projectName": "Creational.Pattern.Builder",
+        "projectPath": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Builder/Creational.Pattern.Builder.csproj",
         "packagesPath": "/Users/serkaneren/.nuget/packages/",
-        "outputPath": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Singleton/obj/",
+        "outputPath": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Builder/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/Creational.Pattern.Singleton.csproj",
+    "projectUniqueName": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Singleton/Creational.Pattern.Singleton.csproj",
     "projectName": "Creational.Pattern.Singleton",
-    "projectPath": "/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/Creational.Pattern.Singleton.csproj",
-    "outputPath": "/Users/serkaneren/Documents/Projects/DesignPatterns/Creational.Pattern.Singleton/obj/",
+    "projectPath": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Singleton/Creational.Pattern.Singleton.csproj",
+    "outputPath": "/Users/serkaneren/Documents/Belgeler - Serkan’s MacBook Pro/Projects/DesignPatterns/Creational.Pattern.Singleton/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

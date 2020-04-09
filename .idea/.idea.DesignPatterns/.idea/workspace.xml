@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23702da3-8abb-4ff7-9396-f5b35771804d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Factory/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Factory/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/Creational.Pattern.Factory.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/Creational.Pattern.Factory.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/Creational.Pattern.Factory.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/Creational.Pattern.Factory.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/Debug/netcoreapp2.2/Creational.Pattern.Factory.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/Debug/netcoreapp2.2/Creational.Pattern.Factory.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Factory/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/bin/Debug/netcoreapp2.2/Creational.Pattern.Singleton.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/bin/Debug/netcoreapp2.2/Creational.Pattern.Singleton.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/bin/Debug/netcoreapp2.2/Creational.Pattern.Singleton.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/bin/Debug/netcoreapp2.2/Creational.Pattern.Singleton.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Creational.Pattern.Singleton.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Creational.Pattern.Singleton.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Creational.Pattern.Singleton.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Creational.Pattern.Singleton.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/Debug/netcoreapp2.2/Creational.Pattern.Singleton.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Creational.Pattern.Singleton/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +30,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Creational.Pattern.Builder/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Creational.Pattern.Singleton/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Creational.Pattern.Factory/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -23,6 +41,8 @@
         <option value="$PROJECT_DIR$/CSharp.DesignPatterns.Bridge/Program.cs" />
         <option value="$PROJECT_DIR$/Creational.Pattern.Singleton/Program.cs" />
         <option value="$PROJECT_DIR$/Creational.Pattern.Factory/Program.cs" />
+        <option value="$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Program.cs" />
+        <option value="$PROJECT_DIR$/Creational.Pattern.Builder/Program.cs" />
       </list>
     </option>
   </component>
@@ -46,7 +66,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected=".NET Project.Creational.Pattern.Singleton">
+  <component name="RunManager" selected=".NET Project.Creational.Pattern.Factory.Abstract">
     <configuration name="CSharp.DesignPatterns.Bridge" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -61,6 +81,24 @@
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Creational.Pattern.Factory.Abstract" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/bin/Debug/netcoreapp2.2/Creational.Pattern.Factory.Abstract.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/bin/Debug/netcoreapp2.2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Creational.Pattern.Factory.Abstract.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -85,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.Creational.Pattern.Factory.Abstract" />
         <item itemvalue=".NET Project.Creational.Pattern.Singleton" />
       </list>
     </recent_temporary>
@@ -101,7 +140,8 @@
       <updated>1584961430790</updated>
       <workItem from="1584961433888" duration="6229000" />
       <workItem from="1585675965504" duration="32000" />
-      <workItem from="1585676001364" duration="523000" />
+      <workItem from="1585676001364" duration="5905000" />
+      <workItem from="1586456395475" duration="254000" />
     </task>
     <servers />
   </component>
@@ -111,95 +151,178 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1638" height="363" key="GridCell.Tab.0.bottom" timestamp="1585065710735">
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom" timestamp="1586456555799">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710735" />
-    <state width="1638" height="363" key="GridCell.Tab.0.center" timestamp="1585065710734">
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555799" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center" timestamp="1586456555798">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="363" key="GridCell.Tab.0.center/0.0.1620.1050@0.0.1680.1050" timestamp="1585065710734" />
-    <state width="1638" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584966046317" />
-    <state width="1638" height="363" key="GridCell.Tab.0.left" timestamp="1585065710724">
-      <screen x="0" y="0" width="1620" height="1050" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555798" />
+    <state width="1638" height="363" key="GridCell.Tab.0.left" timestamp="1586456555797">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="363" key="GridCell.Tab.0.left/0.0.1620.1050@0.0.1620.1050" timestamp="1585065710724" />
-    <state width="1638" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584966046316" />
-    <state width="1638" height="363" key="GridCell.Tab.0.right" timestamp="1585065710735">
+    <state width="1638" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555797" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right" timestamp="1586456555798">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710735" />
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1585065710737">
+    <state width="1638" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555798" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1586456555802">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710737" />
-    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1585065710736">
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555802" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1586456555801">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710736" />
-    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1585065710735">
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555801" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1586456555800">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710735" />
-    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1585065710736">
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555800" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1586456555802">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710736" />
-    <state width="1638" height="363" key="GridCell.Tab.2.bottom" timestamp="1585065710738">
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555802" />
+    <state width="1638" height="363" key="GridCell.Tab.2.bottom" timestamp="1586456555804">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710738" />
-    <state width="1638" height="363" key="GridCell.Tab.2.center" timestamp="1585065710737">
+    <state width="1638" height="363" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555804" />
+    <state width="1638" height="363" key="GridCell.Tab.2.center" timestamp="1586456555803">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710737" />
-    <state width="1638" height="363" key="GridCell.Tab.2.left" timestamp="1585065710737">
+    <state width="1638" height="363" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555803" />
+    <state width="1638" height="363" key="GridCell.Tab.2.left" timestamp="1586456555802">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710737" />
-    <state width="1638" height="363" key="GridCell.Tab.2.right" timestamp="1585065710738">
+    <state width="1638" height="363" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555802" />
+    <state width="1638" height="363" key="GridCell.Tab.2.right" timestamp="1586456555803">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710738" />
-    <state width="1638" height="363" key="GridCell.Tab.3.bottom" timestamp="1585065710740">
+    <state width="1638" height="363" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555803" />
+    <state width="1638" height="363" key="GridCell.Tab.3.bottom" timestamp="1586456555806">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.3.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710740" />
-    <state width="1638" height="363" key="GridCell.Tab.3.center" timestamp="1585065710739">
+    <state width="1638" height="363" key="GridCell.Tab.3.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555806" />
+    <state width="1638" height="363" key="GridCell.Tab.3.center" timestamp="1586456555805">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.3.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710739" />
-    <state width="1638" height="363" key="GridCell.Tab.3.left" timestamp="1585065710739">
+    <state width="1638" height="363" key="GridCell.Tab.3.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555805" />
+    <state width="1638" height="363" key="GridCell.Tab.3.left" timestamp="1586456555804">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.3.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710739" />
-    <state width="1638" height="363" key="GridCell.Tab.3.right" timestamp="1585065710739">
+    <state width="1638" height="363" key="GridCell.Tab.3.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555804" />
+    <state width="1638" height="363" key="GridCell.Tab.3.right" timestamp="1586456555805">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.3.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710739" />
-    <state width="1638" height="363" key="GridCell.Tab.4.bottom" timestamp="1585065710741">
+    <state width="1638" height="363" key="GridCell.Tab.3.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555805" />
+    <state width="1638" height="363" key="GridCell.Tab.4.bottom" timestamp="1586456555807">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.4.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710741" />
-    <state width="1638" height="363" key="GridCell.Tab.4.center" timestamp="1585065710741">
+    <state width="1638" height="363" key="GridCell.Tab.4.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555807" />
+    <state width="1638" height="363" key="GridCell.Tab.4.center" timestamp="1586456555807">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.4.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710741" />
-    <state width="1638" height="363" key="GridCell.Tab.4.left" timestamp="1585065710740">
+    <state width="1638" height="363" key="GridCell.Tab.4.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555807" />
+    <state width="1638" height="363" key="GridCell.Tab.4.left" timestamp="1586456555806">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.4.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710740" />
-    <state width="1638" height="363" key="GridCell.Tab.4.right" timestamp="1585065710741">
+    <state width="1638" height="363" key="GridCell.Tab.4.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555806" />
+    <state width="1638" height="363" key="GridCell.Tab.4.right" timestamp="1586456555807">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.4.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585065710741" />
-    <state x="440" y="264" key="Rider.ProjectTemplateDialog.Size" timestamp="1584983562852">
+    <state width="1638" height="363" key="GridCell.Tab.4.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586456555807" />
+    <state x="440" y="264" key="Rider.ProjectTemplateDialog.Size" timestamp="1586456666192">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="264" key="Rider.ProjectTemplateDialog.Size/0.0.1680.1050@0.0.1680.1050" timestamp="1584983562852" />
-    <state x="341" y="164" key="SettingsEditor" timestamp="1585676040973">
+    <state x="440" y="264" key="Rider.ProjectTemplateDialog.Size/0.0.1680.1050@0.0.1680.1050" timestamp="1586456666192" />
+    <state x="649" y="216" key="RiderGenerateDialog" timestamp="1585680402124">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1585676040973" />
+    <state x="649" y="216" key="RiderGenerateDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585680402124" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1585682149413">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1585682149413" />
+    <state x="472" y="112" width="1480" height="850" maximized="true" key="dock-window-1" timestamp="1585681718555">
+      <screen x="0" y="23" width="1627" height="1027" />
+    </state>
+    <state x="472" y="112" width="1480" height="850" maximized="true" key="dock-window-1/0.23.1627.1027@0.23.1627.1027" timestamp="1585681718555" />
+    <state x="787" y="108" width="1480" height="850" key="dock-window-2" timestamp="1585680120047">
+      <screen x="0" y="23" width="1627" height="1027" />
+    </state>
+    <state x="787" y="108" width="1480" height="850" key="dock-window-2/0.23.1627.1027@0.23.1627.1027" timestamp="1585680120047" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Program.cs</url>
+          <line>127</line>
+          <properties documentPath="$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Program.cs" initialLine="127">
+            <startOffsets>
+              <option value="3092" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3123" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Program.cs</url>
+          <line>83</line>
+          <properties documentPath="$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Program.cs" initialLine="83">
+            <startOffsets>
+              <option value="1791" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1792" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Program.cs</url>
+          <line>102</line>
+          <properties documentPath="$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Program.cs" initialLine="102">
+            <startOffsets>
+              <option value="2365" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2366" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Program.cs</url>
+          <line>132</line>
+          <properties documentPath="$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Program.cs" initialLine="132">
+            <startOffsets>
+              <option value="3218" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3219" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Program.cs</url>
+          <line>70</line>
+          <properties documentPath="$PROJECT_DIR$/Creational.Pattern.Factory.Abstract/Program.cs" initialLine="70">
+            <startOffsets>
+              <option value="1508" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1509" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
